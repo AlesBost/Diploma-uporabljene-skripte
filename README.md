@@ -1,2 +1,2 @@
 # Diploma-uporabljene-skripte
-Diplomsko delo: Uporabnost Pythona v filmski industriji
+Aleš Boštjančič diplomsko delo: Uporabnost Pythona v filmski industriji
